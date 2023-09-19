@@ -17,5 +17,5 @@ The following data on track listens in the Yandex.Music service were available:
 - User ID
 
 ## Technology Stack
-Python, Pandas
+Python, Pandas, Matplotlib
 
